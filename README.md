@@ -1,6 +1,6 @@
 # understanding_models
 
-A new Flutter project.
+A new Flutter project dive into the concept of Models in Flutter and the use of models to manage data coming from the backEnd to the app.
 
 ## Getting Started
 
